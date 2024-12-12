@@ -16,12 +16,12 @@
 ## **Other necessary requirements**
 >### 1. ***Chromedriver.exe*** (for **selenium**)
 > 
->    It is used to initialize **chrome browser** using python
+>    It is used to initialize **chrome browser** using python. You may need to install the latest **chromedriver** to support the latest version of you **Chrome browser**.
 >### 2. ***Postgresql*** (for **psycopg2**)
 >
->    An **RDBMS(Relational DataBase Management System)** used to manage data like **tables** and **databases** 
+>    An **RDBMS(Relational DataBase Management System)** used to manage large amount of data by storing them is **tables and databases**.
 >
->    [**Click here to download and learn how to use _postgresql_**](https://www.w3schools.com/postgresql/postgresql_pgadmin4.php)
+>    [**Click here to download and learn how to use _postgresql**](https://www.w3schools.com/postgresql/postgresql_pgadmin4.php)
 
 ## **Order of excuting the code**
 >1. filter.py
