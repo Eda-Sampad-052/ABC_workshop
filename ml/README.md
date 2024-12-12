@@ -24,4 +24,7 @@
 >    [**Click here to download and learn how to use _postgresql_**](https://www.w3schools.com/postgresql/postgresql_pgadmin4.php)
 
 ## **Order of excuting the code**
->1. 
+>1. filter.py
+>2. uploaddata.py
+>3. newfolder.py
+>4. ggsearch.ipynb
