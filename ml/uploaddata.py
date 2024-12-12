@@ -1,4 +1,6 @@
 #Read README.md
+# Fill in the blanks present, from line 30 to 33
+
 import pandas as pd
 import psycopg2
 
@@ -25,10 +27,10 @@ df['0-60 MPH Time (seconds)'] = pd.to_numeric(df['0-60 MPH Time (seconds)'].str.
 
 # Establish a connection to the PostgreSQL database
 conn = psycopg2.connect(
-    host='localhost',  # Replace with your host
-    database='test',  # Replace with your actual database name
-    user='postgres',  # Replace with your actual username
-    password='Sampad@5505'  # Replace with your actual password
+    host='__',  # Replace with the hostname or IP address of the database server
+    database='__',  # Replace with the name of the specific database you want to connect to
+    user='__',  # Replace with your PostgreSQL username
+    password='__'  # Replace with the password associated with the PostgreSQL user
 )
 
 # Create a cursor object
