@@ -22,3 +22,6 @@
 >    An **RDBMS(Relational DataBase Management System)** used to manage data like **tables** and **databases** 
 >
 >    [**Click here to download and learn how to use _postgresql_**](https://www.w3schools.com/postgresql/postgresql_pgadmin4.php)
+
+## **Order of excuting the code**
+>1. 
